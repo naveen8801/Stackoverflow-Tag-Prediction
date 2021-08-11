@@ -16,6 +16,6 @@ This project illustrate, how we can perform multilabel text classification using
 <a href="https://www.kaggle.com/stackoverflow/stacksample">Dataset Link</a>
 
 ### Result
-![Result](https://github.com/naveen8801/Smaadhaan/blob/main/result.png)
+![Result](https://github.com/naveen8801/Stackoverflow-Tag-Prediction/blob/main/result.png)
 
 
